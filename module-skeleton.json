@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-attribution-and-analytics-flutter",
+  "capabilityKey": "planned:ecommerce:attribution-and-analytics",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_attribution_and_analytics_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/attribution-and-analytics.md",
+  "presentationPlan": "projects/ecommerce/flutter/attribution-and-analytics.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
